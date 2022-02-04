@@ -1,0 +1,57 @@
+body{
+    background-color: grey;
+}
+
+.centrer{
+    text-align: center;
+}
+
+.div1 {
+    width: 40%;
+    height:400px;
+    position: absolute;
+    border: 3px solid #000;
+    margin-top:100px;
+    margin-left: 50px;
+}
+
+.div2 {
+    width: 40%;
+    height:400px;
+    position: absolute;
+    border: 3px solid #000;
+    margin-top:100px;
+    margin-left: 50%;
+}
+
+.div3{
+    width:40%;
+    height:400px;
+    position: absolute;
+    border: 3px solid #000;
+    margin-top:600px;
+    margin-left: 50px;
+}
+
+.div4{
+    width:40%;
+    height:400px;
+    position: absolute;
+    border: 3px solid #000;
+    margin-top:600px;
+    margin-left: 50%;
+}
+
+.div5{
+    width:89%;
+    height:200px;
+    position: absolute;
+    border: 3px solid #000;
+    margin-top:1100px;
+    margin-left: 50px;
+}
+
+
+ h1{ color: rgb(189, 31, 31)}
+ h2{ color: rgb(189, 31, 31)}
+    
